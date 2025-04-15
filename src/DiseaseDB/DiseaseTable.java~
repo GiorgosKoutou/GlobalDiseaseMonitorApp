@@ -1,0 +1,7 @@
+package DiseaseDB;
+
+public class DiseaseTable {
+    private int id;
+    private String name;
+    private 
+}
