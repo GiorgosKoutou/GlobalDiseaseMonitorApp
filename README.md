@@ -1,5 +1,9 @@
 # Global Disease Monitoring and Analysis System 🌍🦠
 
+**University Project** – IVT AKMI
+
+## 📌 Project Overview
+
 This is a Java Swing desktop application for monitoring and analyzing the spread of diseases across the world using a MySQL database. The system provides role-based login, interactive map visualization, dynamic statistics filtering, and data management tools.
 
 ## 📌 Features
