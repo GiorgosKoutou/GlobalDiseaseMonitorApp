@@ -84,9 +84,17 @@ To create the required MySQL tables, use the script included in the `DataBaseSch
 
 ---
 
-## 👨‍💻 Author
+## 📚 Author
 
-**Koutourinis Giorgos**  
-Computer Science Student – IVT AKMI
+**Georgios Koutourinis**  
+IVT AKMI – Semester B6  
+Department: Software Engineer  
+Academic Year: 2024–2025
+
+---
+
+## 📎 License
+
+This project is for academic purposes only and not intended for commercial use.
 
 
