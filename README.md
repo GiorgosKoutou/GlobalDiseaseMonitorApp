@@ -17,7 +17,7 @@ Supports three user roles:
 > 💡 Default login credentials for testing:
 >
 > - **Admin** → Username: `admin` | Password: `admin`  
-> - **Analyst** → Username: `analyst` | Password: `user`  
+> - **Analyst** → Username: `analyst` | Password: `analyst`  
 > - **User** → Username: `user` | Password: `user`
 
 ### 🗺️ Interactive World Map
